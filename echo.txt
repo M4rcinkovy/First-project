@@ -1,2 +1,4 @@
 asd
 Jestem sobie gorol i edytuje plik
+
+zmiana pliku i dodanie do modyfikacji
